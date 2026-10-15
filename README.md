@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/portfolio-banner.svg" alt="Haetae — Project Portfolio. 직접 쓰는 도구부터 팀 프로젝트와 자료구조 학습까지." width="100%" />
+<img src="assets/portfolio-banner.svg" alt="Haetae — Project Portfolio. 해커톤에서 직접 쓰는 도구까지, 문제를 해결하는 프로젝트." width="100%" />
 
 # Project Portfolio
 
 **필요한 도구를 만들고, 구현 과정과 설계 이유를 기록합니다.**
 
-[GitHub](https://github.com/haetae8554) · [대표 프로젝트](#featured) · [학습 프로젝트](#learning) · [프로젝트 추가하기](CONTRIBUTING.md)
+[GitHub](https://github.com/haetae8554) · [대표 프로젝트](#featured) · [프로젝트 추가하기](CONTRIBUTING.md)
 
 </div>
 
-해커톤 팀장으로 참여한 **복지나침반**을 중심으로 개인 프로젝트, 팀 프로젝트, 학습 기록을 모았습니다. 각 프로젝트의 소스와 개발 이력은 원래 저장소에서 관리하고, 이곳에서는 프로젝트별 문제와 접근 방법을 소개합니다.
+해커톤 팀장으로 참여한 **복지나침반**을 중심으로 개인 프로젝트와 팀 프로젝트를 모았습니다. 각 프로젝트의 소스와 개발 이력은 원래 저장소에서 관리하고, 이곳에서는 프로젝트별 문제와 접근 방법을 소개합니다.
 
 <a id="featured"></a>
 
@@ -58,23 +58,11 @@ React 화면과 Express API를 연결하고, 옷장·날씨 정보를 Gemini에 
 
 [프로젝트 상세 →](projects/ai-closet-stylist.md) · [소스 코드](https://github.com/haetae8554/AI-Closet-Stylist)
 
-<a id="learning"></a>
-
-## 학습 프로젝트
-
-수업 과제의 원본에서 fork한 저장소입니다. 서비스 프로젝트와 구분하고, 제공 코드와 추가 구현의 기여 범위를 확인할 수 있도록 원본 링크를 함께 남깁니다.
-
-| 프로젝트 | 학습 주제 | 링크 |
-| :--- | :--- | :--- |
-| C++ 그래프 알고리즘 | 인접 리스트·행렬, BFS·DFS, 최소 신장 트리, 최단 경로 | [소개](projects/data-structures.md#graph) · [코드](https://github.com/haetae8554/2025_Kwangwoon_DS_Project_3) |
-| C++ 자료구조 기반 데이터 관리 | B+ Tree, Heap, Selection Tree | [소개](projects/data-structures.md#trees) · [코드](https://github.com/haetae8554/2025_Kwangwoon_DS_Project_2) |
-
 ## 읽는 순서
 
 1. **기획·팀 운영과 AI 도구를 활용한 개발**은 복지나침반의 역할·구조·현재 기술 과제를 확인하세요.
 2. **제품 구성과 오류 처리**는 모아의 구조·주문 상태 설계를 확인하세요.
 3. **AI API 연동**은 AI Closet Stylist의 담당 영역과 소스를 확인하세요.
-4. **자료구조 구현 학습**은 C++ 프로젝트에서 확인할 수 있습니다.
 
 ## 기록 원칙
 
