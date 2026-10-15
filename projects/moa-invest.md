@@ -6,6 +6,7 @@
 
 | 항목 | 내용 |
 | :--- | :--- |
+| 연도 | 2026년 |
 | 구분 | 개인 프로젝트 · 개발 중 |
 | 기술 | Python 3.11+, JavaScript, SQLite, Chrome Manifest V3 |
 | 실행 환경 | 로컬 Python 서버 + 웹 UI + Chrome 확장. 키 저장·자동 실행은 Windows 연동 |

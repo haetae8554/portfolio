@@ -2,11 +2,14 @@
 
 > 옷장과 날씨 정보를 바탕으로 코디를 제안하는 AI 웹 애플리케이션.
 
+**2025년 · OSS(오픈소스소프트웨어) 수업 팀 프로젝트**
+
 [전체 프로젝트로 돌아가기](../README.md) · [소스](https://github.com/haetae8554/AI-Closet-Stylist)
 
 | 항목 | 내용 |
 | :--- | :--- |
-| 구분 | 팀 프로젝트 |
+| 연도 | 2025년 |
+| 구분 | OSS(오픈소스소프트웨어) 수업 팀 프로젝트 |
 | 기술 | React, JavaScript, Node.js, Express, Gemini API |
 | 본인 담당 | 프로젝트 README 기준: AI API 연동, 프롬프트 구성, JSON 응답 파싱 |
 | 공동 담당 | README 기준: 데이터 관리, 테스트·문서화 |
