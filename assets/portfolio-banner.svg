@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Haetae — Project Portfolio</title>
+  <desc id="desc">직접 쓰는 도구부터 팀 프로젝트와 자료구조 학습까지</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101726"/><stop offset="1" stop-color="#172d46"/></linearGradient></defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <path d="M900 60h280M960 100h220M900 220h280M1000 260h180" stroke="#29435d" stroke-width="2"/>
+  <circle cx="1090" cy="160" r="78" fill="none" stroke="#4b91ff" stroke-width="2" opacity=".7"/>
+  <circle cx="1090" cy="160" r="48" fill="none" stroke="#7dd3c7" stroke-width="2"/>
+  <circle cx="1090" cy="160" r="9" fill="#7dd3c7"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="78" font-size="16" letter-spacing="5" fill="#7dd3c7">HAETAE / BUILD &amp; LEARN</text>
+    <text x="60" y="155" font-size="60" font-weight="700" fill="#f5f7fb">Project Portfolio</text>
+    <text x="64" y="207" font-family="Malgun Gothic, sans-serif" font-size="23" fill="#c0cfdf">직접 쓰는 도구부터 팀 프로젝트와 자료구조 학습까지.</text>
+    <text x="64" y="265" font-size="15" letter-spacing="2" fill="#8ea6bd">TOOLS · AI APPLICATIONS · COMPUTER SCIENCE</text>
+  </g>
+</svg>
