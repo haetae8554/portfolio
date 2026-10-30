@@ -1,16 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <title id="title">Haetae — Build &amp; Learn</title>
-  <desc id="desc">해커톤·개인 개발·수업 프로젝트의 연도별 기록</desc>
-  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101726"/><stop offset="1" stop-color="#172d46"/></linearGradient></defs>
-  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
-  <path d="M900 60h280M960 100h220M900 220h280M1000 260h180" stroke="#29435d" stroke-width="2"/>
-  <circle cx="1090" cy="160" r="78" fill="none" stroke="#4b91ff" stroke-width="2" opacity=".7"/>
-  <circle cx="1090" cy="160" r="48" fill="none" stroke="#7dd3c7" stroke-width="2"/>
-  <circle cx="1090" cy="160" r="9" fill="#7dd3c7"/>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1280"
+  height="320"
+  viewBox="0 0 1280 320"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Haetae — Developer Portfolio</title>
+  <desc id="desc">백엔드, 데이터, 사용자 경험을 연결하는 개발 포트폴리오</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#101c32" />
+      <stop offset="1" stop-color="#183e68" />
+    </linearGradient>
+    <linearGradient id="accent" x2="1">
+      <stop stop-color="#79b9ff" />
+      <stop offset="1" stop-color="#a9e5f4" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)" />
+  <path
+    d="M909 65h283M978 105h214M909 215h283M1008 255h184"
+    stroke="#36577e"
+    stroke-width="2"
+    opacity=".7"
+  />
+  <circle
+    cx="1090"
+    cy="160"
+    r="80"
+    fill="none"
+    stroke="#6bafff"
+    stroke-width="2"
+    opacity=".7"
+  />
+  <circle
+    cx="1090"
+    cy="160"
+    r="50"
+    fill="none"
+    stroke="#a1dcf5"
+    stroke-width="2"
+    opacity=".9"
+  />
+  <path
+    d="m1090 107 11 42 42 11-42 11-11 42-11-42-42-11 42-11Z"
+    fill="url(#accent)"
+    opacity=".9"
+  />
+  <circle cx="1090" cy="160" r="7" fill="#153352" />
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="64" y="78" font-size="16" letter-spacing="5" fill="#7dd3c7">HAETAE / BUILD &amp; LEARN</text>
-    <text x="60" y="155" font-size="60" font-weight="700" fill="#f5f7fb">Build &amp; Learn</text>
-    <text x="64" y="207" font-family="Malgun Gothic, sans-serif" font-size="23" fill="#c0cfdf">해커톤 · 개인 개발 · 수업 프로젝트의 연도별 기록</text>
-    <text x="64" y="265" font-size="15" letter-spacing="2" fill="#8ea6bd">PROJECTS · COURSEWORK · LEARNING</text>
+    <text
+      x="64"
+      y="78"
+      font-size="15"
+      font-weight="600"
+      letter-spacing="4"
+      fill="#9ccffc"
+    >
+      HAETAE / DEVELOPER
+    </text>
+    <text
+      x="60"
+      y="158"
+      font-size="68"
+      font-weight="700"
+      letter-spacing="-2"
+      fill="#f5f9ff"
+    >
+      Portfolio
+    </text>
+    <text
+      x="64"
+      y="211"
+      font-family="Malgun Gothic, sans-serif"
+      font-size="23"
+      fill="#d3e2f4"
+    >
+      정보와 서비스를 연결하는 개발
+    </text>
+    <text x="64" y="267" font-size="14" letter-spacing="2" fill="#8faecc">
+      BACKEND · DATA · WEB EXPERIENCES
+    </text>
   </g>
 </svg>
